@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Haswell-jack
-- 👀 I’m interested in Dev-ops tools...
-- 🌱 I’m currently learning Kubernetes and Python...
-- 💞️ I’m looking to collaborate on Python automation...
-- 📫 How to reach me - stevenjackson7@hotmail.co.uk ...
+This Git-hub houses the repos for all of my Dev-ops project environments and labs.
 
-<!---
-Haswell-jack/Haswell-jack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Each README should make getting up and running simple
+
+Have fun =)
